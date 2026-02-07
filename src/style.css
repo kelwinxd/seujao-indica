@@ -91,6 +91,8 @@
         .hero-content h1 {
             color: white;
             text-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+            font-size: 28px;
+            line-height: 30px;
         }
 
         .hero-content p {
@@ -236,7 +238,7 @@
             padding: 8px 15px;
             border-radius: 25px;
             font-weight: bold;
-            font-size: 0.9em;
+            font-size: 24px;
             box-shadow: 0 4px 10px rgba(255, 71, 87, 0.4);
         }
 
